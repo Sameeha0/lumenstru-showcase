@@ -1,0 +1,988 @@
+{
+ "profile": {
+  "name": "Aisha",
+  "crampLevel": "Moderate",
+  "hardestDays": "Days 1-2",
+  "pms": "Yes",
+  "regular": "Regular",
+  "usualSymptoms": [
+   "Cramps",
+   "Fatigue",
+   "Bloating"
+  ]
+ },
+ "periods": [
+  {
+   "id": 1,
+   "start": "2026-07-10",
+   "end": "2026-07-14"
+  },
+  {
+   "id": 2,
+   "start": "2026-08-08",
+   "end": "2026-08-12"
+  },
+  {
+   "id": 3,
+   "start": "2026-09-05",
+   "end": "2026-09-10"
+  },
+  {
+   "id": 4,
+   "start": "2026-10-04",
+   "end": "2026-10-08"
+  },
+  {
+   "id": 5,
+   "start": "2026-11-01",
+   "end": "2026-11-05"
+  }
+ ],
+ "logs": [
+  {
+   "date": "2026-07-10",
+   "periodId": 1,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Fatigue",
+    "Bloating"
+   ],
+   "mood": "Tired"
+  },
+  {
+   "date": "2026-07-11",
+   "periodId": 1,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Headache"
+   ],
+   "mood": "Low Energy"
+  },
+  {
+   "date": "2026-07-12",
+   "periodId": 1,
+   "flow": "Medium",
+   "severity": "Mild",
+   "symptoms": [
+    "Fatigue"
+   ],
+   "mood": "Sensitive"
+  },
+  {
+   "date": "2026-07-13",
+   "periodId": 1,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [
+    "Cravings"
+   ],
+   "mood": "Calm"
+  },
+  {
+   "date": "2026-07-14",
+   "periodId": 1,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [],
+   "mood": "Good"
+  },
+  {
+   "date": "2026-08-08",
+   "periodId": 2,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Fatigue",
+    "Bloating"
+   ],
+   "mood": "Tired"
+  },
+  {
+   "date": "2026-08-09",
+   "periodId": 2,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Headache"
+   ],
+   "mood": "Low Energy"
+  },
+  {
+   "date": "2026-08-10",
+   "periodId": 2,
+   "flow": "Medium",
+   "severity": "Mild",
+   "symptoms": [
+    "Fatigue"
+   ],
+   "mood": "Sensitive"
+  },
+  {
+   "date": "2026-08-11",
+   "periodId": 2,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [
+    "Cravings"
+   ],
+   "mood": "Calm"
+  },
+  {
+   "date": "2026-08-12",
+   "periodId": 2,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [],
+   "mood": "Good"
+  },
+  {
+   "date": "2026-09-05",
+   "periodId": 3,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Fatigue",
+    "Bloating"
+   ],
+   "mood": "Tired"
+  },
+  {
+   "date": "2026-09-06",
+   "periodId": 3,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Headache"
+   ],
+   "mood": "Low Energy"
+  },
+  {
+   "date": "2026-09-07",
+   "periodId": 3,
+   "flow": "Medium",
+   "severity": "Mild",
+   "symptoms": [
+    "Fatigue"
+   ],
+   "mood": "Sensitive"
+  },
+  {
+   "date": "2026-09-08",
+   "periodId": 3,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [
+    "Cravings"
+   ],
+   "mood": "Calm"
+  },
+  {
+   "date": "2026-09-09",
+   "periodId": 3,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [],
+   "mood": "Good"
+  },
+  {
+   "date": "2026-09-10",
+   "periodId": 3,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [],
+   "mood": "Good"
+  },
+  {
+   "date": "2026-10-04",
+   "periodId": 4,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Fatigue",
+    "Bloating"
+   ],
+   "mood": "Tired"
+  },
+  {
+   "date": "2026-10-05",
+   "periodId": 4,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Headache"
+   ],
+   "mood": "Low Energy"
+  },
+  {
+   "date": "2026-10-06",
+   "periodId": 4,
+   "flow": "Medium",
+   "severity": "Mild",
+   "symptoms": [
+    "Fatigue"
+   ],
+   "mood": "Sensitive"
+  },
+  {
+   "date": "2026-10-07",
+   "periodId": 4,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [
+    "Cravings"
+   ],
+   "mood": "Calm"
+  },
+  {
+   "date": "2026-10-08",
+   "periodId": 4,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [],
+   "mood": "Good"
+  },
+  {
+   "date": "2026-11-01",
+   "periodId": 5,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Fatigue",
+    "Bloating"
+   ],
+   "mood": "Tired"
+  },
+  {
+   "date": "2026-11-02",
+   "periodId": 5,
+   "flow": "Heavy",
+   "severity": "Moderate",
+   "symptoms": [
+    "Cramps",
+    "Headache"
+   ],
+   "mood": "Low Energy"
+  },
+  {
+   "date": "2026-11-03",
+   "periodId": 5,
+   "flow": "Medium",
+   "severity": "Mild",
+   "symptoms": [
+    "Fatigue"
+   ],
+   "mood": "Sensitive"
+  },
+  {
+   "date": "2026-11-04",
+   "periodId": 5,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [
+    "Cravings"
+   ],
+   "mood": "Calm"
+  },
+  {
+   "date": "2026-11-05",
+   "periodId": 5,
+   "flow": "Light",
+   "severity": "Mild",
+   "symptoms": [],
+   "mood": "Good"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "t6",
+   "name": "Final Year Project report draft",
+   "difficulty": 5,
+   "energy": "high",
+   "dueDate": "2026-12-04",
+   "estimatedHours": 12.0,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790025200000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 40,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t7",
+   "name": "Revise: Machine Learning",
+   "difficulty": 4,
+   "energy": "high",
+   "dueDate": "2026-12-01",
+   "estimatedHours": 6.0,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790028800000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 20,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t8",
+   "name": "Exam: Machine Learning",
+   "difficulty": 5,
+   "energy": "high",
+   "dueDate": "2026-12-02",
+   "estimatedHours": null,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790032400000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 0,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t9",
+   "name": "Database Systems coursework",
+   "difficulty": 4,
+   "energy": "med",
+   "dueDate": "2026-11-29",
+   "estimatedHours": 5.0,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790036000000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 60,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t10",
+   "name": "Read chapter 6 - Networks",
+   "difficulty": 2,
+   "energy": "low",
+   "dueDate": "2026-11-27",
+   "estimatedHours": 1.5,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790039600000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 0,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t11",
+   "name": "Prepare FYP showcase slides",
+   "difficulty": 3,
+   "energy": "med",
+   "dueDate": "2026-12-07",
+   "estimatedHours": 4.0,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790043200000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 10,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t12",
+   "name": "Group meeting notes",
+   "difficulty": 1,
+   "energy": "low",
+   "dueDate": "2026-11-26",
+   "estimatedHours": 0.5,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790046800000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 0,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t13",
+   "name": "Review flashcards",
+   "difficulty": 1,
+   "energy": "low",
+   "dueDate": "2026-11-25",
+   "estimatedHours": 0.5,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790050400000,
+   "planDate": null,
+   "repeat": "daily",
+   "keepPlan": false,
+   "progress": 0,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t14",
+   "name": "Weekly lab write-up",
+   "difficulty": 3,
+   "energy": "med",
+   "dueDate": "2026-11-28",
+   "estimatedHours": 2.0,
+   "done": false,
+   "completedOn": null,
+   "createdAt": 1790054000000,
+   "planDate": null,
+   "repeat": "weekly",
+   "keepPlan": false,
+   "progress": 0,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t15",
+   "name": "Ethics essay outline",
+   "difficulty": 2,
+   "energy": "low",
+   "dueDate": "2026-11-22",
+   "estimatedHours": 2.0,
+   "done": true,
+   "completedOn": "2026-11-21",
+   "createdAt": 1790057600000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 100,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t16",
+   "name": "Statistics quiz prep",
+   "difficulty": 3,
+   "energy": "med",
+   "dueDate": "2026-11-19",
+   "estimatedHours": 3.0,
+   "done": true,
+   "completedOn": "2026-11-18",
+   "createdAt": 1790061200000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 100,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t17",
+   "name": "Submit literature review",
+   "difficulty": 4,
+   "energy": "high",
+   "dueDate": "2026-11-15",
+   "estimatedHours": 6.0,
+   "done": true,
+   "completedOn": "2026-11-14",
+   "createdAt": 1790064800000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 100,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t18",
+   "name": "Cloud computing lab 4",
+   "difficulty": 2,
+   "energy": "med",
+   "dueDate": "2026-11-23",
+   "estimatedHours": 1.5,
+   "done": true,
+   "completedOn": "2026-11-23",
+   "createdAt": 1790068400000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 100,
+   "partDoneOn": null,
+   "partPercent": 0
+  },
+  {
+   "id": "t19",
+   "name": "Email supervisor update",
+   "difficulty": 1,
+   "energy": "low",
+   "dueDate": "2026-11-24",
+   "estimatedHours": 0.3,
+   "done": true,
+   "completedOn": "2026-11-24",
+   "createdAt": 1790072000000,
+   "planDate": null,
+   "repeat": null,
+   "keepPlan": false,
+   "progress": 100,
+   "partDoneOn": null,
+   "partPercent": 0
+  }
+ ],
+ "focusSessions": [
+  {
+   "date": "2026-11-04",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-04",
+   "minutes": 15,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-05",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-06",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-06",
+   "minutes": 25,
+   "mode": "cramp-safe"
+  },
+  {
+   "date": "2026-11-07",
+   "minutes": 50,
+   "mode": "cramp-safe"
+  },
+  {
+   "date": "2026-11-07",
+   "minutes": 50,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-07",
+   "minutes": 15,
+   "mode": "cramp-safe"
+  },
+  {
+   "date": "2026-11-08",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-08",
+   "minutes": 50,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-08",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-10",
+   "minutes": 15,
+   "mode": "cramp-safe"
+  },
+  {
+   "date": "2026-11-11",
+   "minutes": 15,
+   "mode": "cramp-safe"
+  },
+  {
+   "date": "2026-11-12",
+   "minutes": 15,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-13",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-14",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-14",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-15",
+   "minutes": 15,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-16",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-16",
+   "minutes": 15,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-17",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-17",
+   "minutes": 50,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-17",
+   "minutes": 15,
+   "mode": "cramp-safe"
+  },
+  {
+   "date": "2026-11-18",
+   "minutes": 15,
+   "mode": "cramp-safe"
+  },
+  {
+   "date": "2026-11-19",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-20",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-21",
+   "minutes": 15,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-22",
+   "minutes": 50,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-22",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-22",
+   "minutes": 15,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-23",
+   "minutes": 50,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-23",
+   "minutes": 25,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-23",
+   "minutes": 15,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-24",
+   "minutes": 15,
+   "mode": "classic"
+  },
+  {
+   "date": "2026-11-24",
+   "minutes": 15,
+   "mode": "classic"
+  }
+ ],
+ "resolutions": [],
+ "checkIns": [
+  {
+   "date": "2026-10-26",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-10-27",
+   "mood": "Happy",
+   "energy": 3
+  },
+  {
+   "date": "2026-10-29",
+   "mood": "Happy",
+   "energy": 3
+  },
+  {
+   "date": "2026-10-30",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-01",
+   "mood": "Tired",
+   "energy": 1
+  },
+  {
+   "date": "2026-11-02",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-03",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-05",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-06",
+   "mood": "Happy",
+   "energy": 3
+  },
+  {
+   "date": "2026-11-07",
+   "mood": "Okay",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-09",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-10",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-11",
+   "mood": "Happy",
+   "energy": 3
+  },
+  {
+   "date": "2026-11-12",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-14",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-15",
+   "mood": "Happy",
+   "energy": 3
+  },
+  {
+   "date": "2026-11-16",
+   "mood": "Calm",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-17",
+   "mood": "Okay",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-18",
+   "mood": "Okay",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-19",
+   "mood": "Tired",
+   "energy": 1
+  },
+  {
+   "date": "2026-11-20",
+   "mood": "Anxious",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-21",
+   "mood": "Okay",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-22",
+   "mood": "Anxious",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-23",
+   "mood": "Okay",
+   "energy": 2
+  },
+  {
+   "date": "2026-11-24",
+   "mood": "Tired",
+   "energy": 1
+  }
+ ],
+ "calmSessions": [
+  {
+   "date": "2026-11-03",
+   "minutes": 3,
+   "tool": "breathing"
+  },
+  {
+   "date": "2026-11-04",
+   "minutes": 5,
+   "tool": "meditation"
+  },
+  {
+   "date": "2026-11-07",
+   "minutes": 2,
+   "tool": "stretch"
+  },
+  {
+   "date": "2026-11-11",
+   "minutes": 3,
+   "tool": "breathing"
+  },
+  {
+   "date": "2026-11-16",
+   "minutes": 10,
+   "tool": "meditation"
+  },
+  {
+   "date": "2026-11-19",
+   "minutes": 3,
+   "tool": "breathing"
+  },
+  {
+   "date": "2026-11-21",
+   "minutes": 2,
+   "tool": "stretch"
+  },
+  {
+   "date": "2026-11-23",
+   "minutes": 5,
+   "tool": "meditation"
+  },
+  {
+   "date": "2026-11-24",
+   "minutes": 3,
+   "tool": "breathing"
+  }
+ ],
+ "classes": [
+  {
+   "id": 20,
+   "name": "Machine Learning",
+   "weekday": 1,
+   "time": "09:00",
+   "place": "Room B204",
+   "note": null,
+   "noteDate": null,
+   "endTime": "11:00"
+  },
+  {
+   "id": 21,
+   "name": "Database Systems",
+   "weekday": 1,
+   "time": "14:00",
+   "place": "Lab 3",
+   "note": null,
+   "noteDate": null,
+   "endTime": "15:30"
+  },
+  {
+   "id": 22,
+   "name": "Computer Networks",
+   "weekday": 2,
+   "time": "10:00",
+   "place": "Room A110",
+   "note": null,
+   "noteDate": null,
+   "endTime": "12:00"
+  },
+  {
+   "id": 23,
+   "name": "FYP Supervision",
+   "weekday": 3,
+   "time": "11:00",
+   "place": "Office 2.14",
+   "note": "Bring report draft",
+   "noteDate": null,
+   "endTime": "12:00"
+  },
+  {
+   "id": 24,
+   "name": "Machine Learning Lab",
+   "weekday": 3,
+   "time": "14:00",
+   "place": "Lab 1",
+   "note": null,
+   "noteDate": null,
+   "endTime": "16:00"
+  },
+  {
+   "id": 25,
+   "name": "Cloud Computing",
+   "weekday": 4,
+   "time": "09:30",
+   "place": "Room B204",
+   "note": null,
+   "noteDate": null,
+   "endTime": "11:30"
+  },
+  {
+   "id": 26,
+   "name": "Database Systems",
+   "weekday": 4,
+   "time": "13:00",
+   "place": "Room C305",
+   "note": null,
+   "noteDate": null,
+   "endTime": "14:30"
+  },
+  {
+   "id": 27,
+   "name": "Research Methods",
+   "weekday": 5,
+   "time": "10:00",
+   "place": "Lecture Hall 2",
+   "note": null,
+   "noteDate": null,
+   "endTime": "11:30"
+  }
+ ],
+ "theme": "matcha",
+ "notifications": {
+  "dnd": false,
+  "hydration": true,
+  "rest": true,
+  "taskAlerts": true
+ },
+ "nextId": 28
+}
